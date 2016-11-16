@@ -9,7 +9,7 @@ Instructions for running the appliation
 2. Run 'make all'  
 3. Navigate to \bin  
 4. Enter the following command line arguments to run the simulation:  java cacheSimulator \<address_file_name>  
-	 <address_file_name> can be chosen from one of the following pre-loaded files:  
+	 \<address_file_name> can be chosen from one of the following pre-loaded files:  
  	 assignment.addr, fourier.addr, heapsort.addr, matmul5x5_loop, small_L2_set.addr, small_set.addr  
 	 You can place your own address file into the bin/files  
 5. Follow the on-screen instructions: Enter 1 to run a L1 siumulation, or 2 to run a L2 simulation  
